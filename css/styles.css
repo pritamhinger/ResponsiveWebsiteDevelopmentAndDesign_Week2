@@ -1,3 +1,13 @@
 .form-control-static{
 	display: inline-block;
 }
+
+.bootstrapClasses li{
+	font-weight: bold;
+	font-style: italic;
+}
+
+.bootstrapFeatures li{
+	font-weight: lighter;
+	font-style: italic;	
+}
